@@ -1,0 +1,12 @@
+.campus_life_mainDiv {
+    border: 1px solid lightgrey;
+}
+
+.campus_life_mainDiv img {
+    width: 100%;
+}
+
+.campus_life_mainDiv h5,
+.campus_life_mainDiv p {
+    margin: 20px;
+}
